@@ -27,7 +27,7 @@
             </li>
             <li class="nav-item" >
               <div class="line-onwe"></div>
-              <a class="nav-link Welcom-to-f" href="https://haroon533.github.io/views/Welcome">Go To FGYM</a>
+              <a class="nav-link Welcom-to-f" href="../views/Welcome">Go To FGYM</a>
               <div class="line-onwe"></div>
             </li>
             <li class="nav-item nav-item-plus">
