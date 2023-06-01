@@ -27,20 +27,25 @@
             </li>
             <li class="nav-item" >
               <div class="line-onwe"></div>
-              <a class="nav-link Welcom-to-f" href="../views/Welcome">Go To FGYM</a>
+             <!-- <a class="nav-link Welcom-to-f" href="../views/Welcome">Go To FGYM</a>-->
+              <RouterLink to="/views/Welcome" class="nav-link Welcom-to-f">Go To FGYM</RouterLink>
               <div class="line-onwe"></div>
             </li>
             <li class="nav-item nav-item-plus">
-              <a class="nav-link" href="/">Home</a>
+             <!-- <a class="nav-link" href="/">Home</a>-->
+             <RouterLink to="/" class="nav-link">Home</RouterLink>
             </li>
             <li class="nav-item nav-item-plus">
-              <a class="nav-link"  href="../views/Nutrition">Nutrition</a>
+              <!--<a class="nav-link"  href="../views/Nutrition">Nutrition</a>-->
+              <RouterLink to="/views/Nutrition" class="nav-link">Nutrition</RouterLink>
             </li>
             <li class="nav-item nav-item-plus">
-              <a class="nav-link" href="../views/Fitness">Fitness</a>
+             <!-- <a class="nav-link" href="../views/Fitness">Fitness</a>-->
+             <RouterLink to="/views/Fitness" class="nav-link">Fitness</RouterLink>
             </li>
             <li class="nav-item nav-item-plus">
-              <a class="nav-link" href="../views/Boutique">Shop</a>
+             <!-- <a class="nav-link" href="../views/Boutique">Shop</a>-->
+             <RouterLink to="/views/Boutique" class="nav-link">Shop</RouterLink>
             </li>
            <!-- <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
