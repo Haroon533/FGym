@@ -672,7 +672,7 @@ background-color: #F9525A;
 }
 .section-how p{
   color: white;
-  line-height: 45px;
+  line-height: 30px;
   font-size: large;
 }
 .section-how h1{
