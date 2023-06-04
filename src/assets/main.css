@@ -7,3 +7,7 @@
     z-index: 2;
     background-color: white;
     }
+body{
+        padding-right: 0 !important;
+        overflow: scroll !important;
+    }
